@@ -1,8 +1,7 @@
 ---
 layout: post
-title: It's after midnight!
+title: We're Back
 ---
 
-We're Back 
 
 # Testing 1..2..3..
